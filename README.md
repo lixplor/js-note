@@ -12,7 +12,7 @@ Github提交学习内容打卡
 * 任务分解
     - 介绍
         - [ ] [指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
-            - [ ] [介绍](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Introduction)
+            - [x] [介绍](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Introduction)
             - [ ] [语法与数据类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Grammar_and_types)
             - [ ] [控制流与错误处理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
             - [ ] [循环与迭代](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Loops_and_iteration)
