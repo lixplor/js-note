@@ -13,7 +13,7 @@ Github提交学习内容打卡
     - 介绍
         - [ ] [指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
             - [x] [介绍](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Introduction)
-            - [ ] [语法与数据类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Grammar_and_types)
+            - [x] [语法与数据类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Grammar_and_types)
             - [ ] [控制流与错误处理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
             - [ ] [循环与迭代](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Loops_and_iteration)
             - [ ] [函数](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Functions)
