@@ -15,7 +15,7 @@ Github提交学习内容打卡
             - [x] [介绍](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Introduction)
             - [x] [语法与数据类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Grammar_and_types)
             - [x] [控制流与错误处理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
-            - [ ] [循环与迭代](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Loops_and_iteration)
+            - [x] [循环与迭代](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Loops_and_iteration)
             - [ ] [函数](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Functions)
             - [ ] [表达式和运算符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Expressions_and_Operators)
             - [ ] [数字和日期](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Numbers_and_dates)
