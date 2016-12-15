@@ -27,7 +27,7 @@ Github提交学习内容打卡
             - [x] [迭代器与生成器](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Iterators_and_Generators)
             - [x] [元编程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Meta_programming)
         - [x] [技术概览](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/JavaScript_technologies_overview)
-        - [ ] [面向对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+        - [x] [面向对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
     - 中级内容
         - [ ] [刮目相看](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
         - [ ] [数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
