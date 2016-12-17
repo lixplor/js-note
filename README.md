@@ -30,7 +30,7 @@ Github提交学习内容打卡
         - [x] [面向对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
     - 中级内容
         - [x] [重新介绍JS](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-        - [ ] [数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
+        - [x] [数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
         - [ ] [比较操作符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_when_to_use_them)
     - 高级内容
         - [ ] [继承和原型的链式结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
