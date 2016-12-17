@@ -31,7 +31,7 @@ Github提交学习内容打卡
     - 中级内容
         - [x] [重新介绍JS](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
         - [x] [数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
-        - [ ] [比较操作符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_when_to_use_them)
+        - [x] [比较操作符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_when_to_use_them)
     - 高级内容
         - [ ] [继承和原型的链式结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
         - [ ] [严格模式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode)
