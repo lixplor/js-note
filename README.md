@@ -34,7 +34,7 @@ Github提交学习内容打卡
         - [x] [比较操作符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_when_to_use_them)
     - 高级内容
         - [x] [继承和原型的链式结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
-        - [ ] [严格模式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode)
+        - [x] [严格模式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode)
         - [ ] [类型数组](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Typed_arrays)
         - [ ] [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
         - [ ] [并发模型以及事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
