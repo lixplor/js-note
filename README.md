@@ -35,7 +35,7 @@ Github提交学习内容打卡
     - 高级内容
         - [x] [继承和原型的链式结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
         - [x] [严格模式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode)
-        - [ ] [类型数组](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Typed_arrays)
+        - [x] [类型数组](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Typed_arrays)
         - [ ] [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
         - [ ] [并发模型以及事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
     - 参考
