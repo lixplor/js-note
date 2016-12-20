@@ -11,7 +11,7 @@ JavaScript学习笔记
 Github提交学习内容打卡
 * 任务分解
     - 介绍
-        - [ ] [指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
+        - [x] [指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
             - [x] [介绍](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Introduction)
             - [x] [语法与数据类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Grammar_and_types)
             - [x] [控制流与错误处理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
@@ -37,7 +37,7 @@ Github提交学习内容打卡
         - [x] [严格模式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode)
         - [x] [类型数组](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Typed_arrays)
         - [x] [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
-        - [ ] [并发模型以及事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
+        - [x] [并发模型以及事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
     - 参考
         - [ ] [标准对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects)
         - [ ] [表达式和运算符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators)
