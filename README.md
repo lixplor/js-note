@@ -5,6 +5,8 @@ JavaScript学习笔记
 
 * 资源
     - [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+    - [runoob-jQuery](http://www.runoob.com/jquery/jquery-tutorial.html)
+    - [runoob-AJAX](http://www.runoob.com/ajax/ajax-tutorial.html)
 * 时间安排
     - 1h/day
 * 监督模式
@@ -44,5 +46,5 @@ JavaScript学习笔记
             - [x] [表达式和运算符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators)
             - [x] [语句和声明](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements)
             - [x] [函数](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions)
-    - jQuery
-    - AJAX
+    - [x] jQuery
+    - [x] AJAX
