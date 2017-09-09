@@ -1,4 +1,12 @@
-# jQuery AJAX
+# AJAX
+
+* AJAX: Asynchronous JavaScript and XML, 异步JavaScrip和XML
+    - JavaScript中有一个XMLHttpRequest对象, 可以向服务器发送异步请求. 利用XML格式传递数据
+
+
+
+
+## jQuery中的AJAX
 
 * jQuery简化了AJAX的操作
 
@@ -46,13 +54,13 @@ $("button").click(function(){
 });
 
 // getJSON
-$(document).ready(function(){ 
-    $("button").click(function(){ 
-        $.getJSON("demo_ajax_json.js",function(result){ 
-            $.each(result, function(i, field){ 
-                $("div").append(field + " "); 
-            }); 
-        }); 
-    }); 
+$(document).ready(function(){
+    $("button").click(function(){
+        $.getJSON("demo_ajax_json.js",function(result){
+            $.each(result, function(i, field){
+                $("div").append(field + " ");
+            });
+        });
+    });
 });
 ```
